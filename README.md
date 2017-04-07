@@ -1,2 +1,0 @@
-# POO
-Quarto Bimestre Project
